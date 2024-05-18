@@ -7,3 +7,5 @@ langchain-experimental
 textract
 Matplotlib
 NLTK
+gensim
+numpy
